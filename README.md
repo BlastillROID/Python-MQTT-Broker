@@ -30,7 +30,7 @@ C:\Program Files\mosquitto\mosquitto.exe -v
 Then run our client python script
 
 ```
-& python "b:/FivePoints/MQTT Python/main.py" 
+& python "./QTT Python/main.py" 
 ```
 
 ## Versioning
