@@ -45,5 +45,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
+![MIT License Logo](https://opensource.org/files/OSIApproved_1.png)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
